@@ -1,6 +1,6 @@
 cask "naden" do
-  version "0.2.5"
-  sha256 "8a7f71fc5a6558c789578e2d78a48847add759734b4c3b0b8916b90356d8d299"
+  version "0.2.6"
+  sha256 "7a960d7b6f27f09cc032236b51a3ec7d1e5666f8aa710d2306dae3180103e8bc"
 
   url "https://github.com/adenijiayocharles/naden/releases/download/v#{version}/naden_#{version}_universal.dmg"
   name "naden"
